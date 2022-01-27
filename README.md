@@ -56,6 +56,13 @@ A bit more than a year after building the first Schräg, I finally got around to
 
 ## Changelog
 
+### v0.2.2
+
+* Fixed attenuverter circuits (versusentroppy)
+* Removed panel
+* Added part numbers for JLCPCB
+* Added placeholder for JLC's order number
+
 ### v0.2.1
 
 * Fixed the LM4040 schematic symbols and PCB traces (#2)
